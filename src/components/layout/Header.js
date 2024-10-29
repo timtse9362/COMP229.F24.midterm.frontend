@@ -20,7 +20,7 @@ const Header = () => {
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink class="nav-link" to="/projects">
+                <NavLink className="nav-link" to="/projects">
                   <i className="fas fa-project-diagram"></i> Projects
                 </NavLink>
               </li>
